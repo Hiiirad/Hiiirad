@@ -11,7 +11,8 @@ With years of experience in the **telecommunications industry**, I have contribu
 ### 🛠️ **Technologies I Work With**
 
 - **Languages:**
-  - **Rust** 🦀 | **Golang** | **Python** 🐍 | **Bash**
+  - **Experienced**: **Rust** ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | **Golang** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | **Python** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | **Bash** ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  - **Learning**: **Elixir** ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) | **Lua** ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) | **Nix** ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) | **Zig** ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
   
 - **Areas of Expertise:**
   - **Linux Kernel Internals** – Diving deep into the core of Linux.
